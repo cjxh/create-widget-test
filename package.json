@@ -1,5 +1,6 @@
 {
-  "name": "WidgetTemplate",
+  "name": "@cjxh/widget-test",
+  "repository": "git@github.com:cjxh/create-widget-test.git",
   "version": "1.0.0",
   "description": "WidgetTemplate",
   "scripts": {
